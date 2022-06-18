@@ -14,7 +14,7 @@ The play Fever came close to its fundraising goal in a short amount of time. By 
 
 * The number of cancellations seem to be immaterial to this analysis.
 
-![Theater Outcomes by Launch Date](./https://github.com/JARVIS-117/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes by Launch Date](https://github.com/JARVIS-117/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
