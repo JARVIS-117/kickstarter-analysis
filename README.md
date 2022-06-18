@@ -20,7 +20,7 @@ The play Fever came close to its fundraising goal in a short amount of time. By 
 
 * Success/Fail rates for campaigns with goals between $15,000 - $19,999 are at parity (50/50). Success rates increase passed 50% at each goal interval as the funding requirements decrease with the first interval that has a positive success rate beginning at $10,000 - $14,999.
 
-![Outcomes Based on Goals](./https://github.com/JARVIS-117/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+![Outcomes Based on Goals](https://github.com/JARVIS-117/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
